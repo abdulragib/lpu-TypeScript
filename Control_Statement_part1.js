@@ -16,5 +16,4 @@ function displayFoodInfo(calories, fatGrams) {
   }
 }
 
-
 displayFoodInfo(100,10)
